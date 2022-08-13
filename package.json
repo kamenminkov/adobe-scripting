@@ -1,0 +1,14 @@
+{
+	"name": "adobe-scripting",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"author": "Kamen Minkov",
+	"license": "ISC",
+	"devDependencies": {
+		"types-for-adobe": "7.0.6"
+	},
+	"scripts": {
+		"watch": "tsc --watch"
+	}
+}
